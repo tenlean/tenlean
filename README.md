@@ -10,8 +10,6 @@ I'm a software engineering student<br>Currently learning ML
 <div align="center">
 
   ![catgif](https://github.com/user-attachments/assets/9170011a-79d9-47d0-b51f-fc67ef0bc97d) <br>
-  ![](https://github-readme-stats.vercel.app/api?username=tenlean&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true) <br>
-  ![](https://nirzak-streak-stats.vercel.app/?user=tenlean&theme=catppuccin_mocha&hide_border=false) <br>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tenlean&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tenlean&theme=transparent&hide_border=true&border_radius=12&background=0D1117&stroke=30363D&ring=58A6FF&fire=F78166&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&card_width=550&disable_animations=false)](https://git.io/streak-stats)
   
 </div>
