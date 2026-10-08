@@ -10,6 +10,6 @@ I'm a software engineering student<br>Currently learning ML
 <div align="center">
 
   ![catgif](https://github.com/user-attachments/assets/9170011a-79d9-47d0-b51f-fc67ef0bc97d) <br>
-  [![GitHub Streak](https://github-readme-streak-stats-five-eta.vercel.app?user=tenlean&theme=yellowdark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-five-eta.vercel.app/api?user=tenlean&theme=yellowdark)](https://git.io/streak-stats)
   
 </div>
